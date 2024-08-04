@@ -33,7 +33,7 @@ Check out the live project here: [Live Demo](https://konprtk.me/URL-Video-Player
 
 ## Usage
 
-1. Open the `index.html` file in a web browser or use [Live Demo](https://your-live-project-link.com).
+1. Open the `index.html` file in a web browser or use [Live Demo](https://konprtk.me/URL-Video-Player/).
 
 2. Copy link from download button (like shown in screenshot)
    ![screenshot1](/images/screenshot1.png)
