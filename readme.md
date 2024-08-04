@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-Check out the live project here: [Live Demo](https://your-live-project-link.com)
+Check out the live project here: [Live Demo](https://konprtk.me/URL-Video-Player/)
 
 ## Installation
 
